@@ -1,6 +1,6 @@
 # weeeeey's space 👋
 
-![Youngjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=weeeeey&show_icons=true&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qser155)](https://solved.ac/qser155/)
 # 💪Skills
 ### Platforms & Languages
